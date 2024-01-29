@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/char/Downloads/GAMES101/pa0/transform.cpp
+eigen3/Eigen/Core
+-
+iostream
+-
+cmath
+-
+
